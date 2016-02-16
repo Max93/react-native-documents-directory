@@ -1,6 +1,6 @@
 {
   "name": "react-native-documents-directory",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "NSDocumentDirectory wrapper for React Native",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
