@@ -9,12 +9,12 @@ RCT_EXPORT_MODULE();
 
 @synthesize bridge = _bridge;
 
-- (NSDictionary *)current {
+- (NSDictionary *)getCurrent {
 
     NSString *currentFolder = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject];
 
     return @{
-             @"currentFolder" : (currentFolder)
+             @"folder" : (currentFolder)
              };
 }
 
