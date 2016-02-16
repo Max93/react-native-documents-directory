@@ -1,0 +1,20 @@
+{
+  "name": "react-native-documents-directory",
+  "version": "0.1",
+  "description": "NSDocumentDirectory wrapper for React Native",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Max93/react-native-documents-directory"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "NSDocumentDirectory"
+  ],
+  "author": "Massimo Ruggirello",
+  "license": "MIT"
+}
